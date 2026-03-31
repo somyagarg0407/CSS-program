@@ -1,0 +1,7 @@
+#box{
+    background-color: rgb(98, 19, 201);
+    color: aliceblue;
+}
+h1,h3{ /* therefore you can use comma also for multiple */
+    color: brown;
+}

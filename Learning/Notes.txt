@@ -1,0 +1,60 @@
+use apna college notes for revision
+
+if you use tyhe h1 tag afetr the universal tag then the h1 tag works bcz it is used after that universal atg
+
+use same id for only 1 element
+
+jo bhi command for chaging color and all baad main aata hai uski baat suni jaatai hai 
+
+inline tag precendence very high but try to change color using anotehr .css file 
+
+use text decoration : none if dont want underline on anchor tage a{ text-decoration: none } so it remobes the underline
+
+96 px=1 inch
+
+capitalise means one letter of each word will be capital
+
+justify-content: center → left-right center karta hai
+align-items: center → up-down center karta hai
+
+by default paddin and margin set to zero while making a box or a navbar and put it in universal tag
+
+use display to cahnge type from inline to block abd block to inline in .css
+
+copyright ka logo bhi use kar sakte hai google se code copy karo and like <p>___ ; </p> yahan par rakh dont
+
+space reseerved in relative and not in absolute and in fixed position it also fix forever
+
+flex box amin space around/evenly/between
+
+align self has more priority than other in flex
+
+list style tip contains the bullet points generally
+
+jo outer hai ya parent hai usme display fe=lex likhte hain jiss evo container bam jaega
+
+and ineer ko flex item banate hain
+
+box in box main align iten and justify item ko dono cetre karo then ek dum middle main aa jaega ye properties display felx yani outer box amin likhni hai 
+
+div:hower{ } used when you put cursor on that element
+
+loading on a website ko kaise banate hai vo acjha hai yaad rakhn ahai 
+
+use fontawesome for emoji and all
+
+use border:border box for good practise bcz it does not add extra border
+
+unversal amin font do and margin  kar do initially
+
+<div class="nav-logo border">
+
+👉 This is 100% correct
+You are giving TWO classes to the same element:
+nav-logo
+border
+
+navbar main display:flrx likhna padega
+
+WE can give 2 differenet class by using space in between to a single element and further we can make 2 classes in .css file\
+

@@ -1,0 +1,37 @@
+h3{
+    color:blueviolet;
+}
+
+h2{
+    color:rgb(255,0,0);
+}
+
+p{
+    /* color:darkgreen; */
+    color:#00ff00;
+}
+
+button{
+    color:chocolate ;
+    background-color: chartreuse;
+}
+
+body{
+    background-color:rgb(45, 31, 169);
+}
+
+/* *{ */
+    /* color:blue <!-- universal selector--> */
+/* }  */
+
+#heading1{
+    color:#00ff00; 
+}
+/*these are id tag*/
+#heading2{
+    color:blueviolet;
+}
+
+.class1{
+    color:blue;
+}
